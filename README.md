@@ -95,7 +95,7 @@ npm run dev
 🎬 Demo Preview
 🟢 Live 
 
-🌐 [Check Live App](https://ai-planner-app.netlify.app/auth)
+🌐 [Check Live App](https://ai-planner-app.netlify.app/)
 
 🧑‍🚀 The Developer
 Aman Pushp – Full-Stack React Developer
