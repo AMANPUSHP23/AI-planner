@@ -13,6 +13,7 @@
   <b>Reimagine planning with AI. Auto-generate content, organize with style, and manage everything in one beautiful, animated dashboard.</b><br>
   <i>Crafted for the future. Built for creators.BANNER2.png</i>
 </p>
+🌐 [Check Live App](https://ai-planner-app.netlify.app/)
 
 ---
 
@@ -95,7 +96,7 @@ npm run dev
 🎬 Demo Preview
 🟢 Live 
 
-🌐 [Check Live App](https://ai-planner-app.netlify.app/)
+
 
 🧑‍🚀 The Developer
 Aman Pushp – Full-Stack React Developer
