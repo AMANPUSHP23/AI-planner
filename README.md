@@ -1,7 +1,7 @@
 <h1 align="center">
   🚀 AI-Planner Dashboard
 </h1>
-![AI planner](./public/assets/BANNER2.png) 
+   ![AI planner](./public/assets/BANNER2.png) 
 
 <p align="center">
   <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="600" alt="AI Dashboard Motion">
@@ -93,7 +93,7 @@ npm run dev
 🎬 Demo Preview
 🟢 Live 
 
-<p align="center"> <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="500" alt="Live Preview Motion UI">[Check Live App](https://ai-planner-app.netlify.app/auth)  </p>
+[Check Live App](https://ai-planner-app.netlify.app/auth) 
 
 🧑‍🚀 The Developer
 Aman Pushp – Full-Stack React Developer
